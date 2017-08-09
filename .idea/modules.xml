@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bvvy_activiti/bvvy_activiti.iml" filepath="$PROJECT_DIR$/bvvy_activiti/bvvy_activiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bvvy_spark/bvvy_spark.iml" filepath="$PROJECT_DIR$/bvvy_spark/bvvy_spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bvvy_study.iml" filepath="$PROJECT_DIR$/bvvy_study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
