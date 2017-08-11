@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/bvvy_activiti/bvvy_activiti.iml" filepath="$PROJECT_DIR$/bvvy_activiti/bvvy_activiti.iml" />
       <module fileurl="file://$PROJECT_DIR$/bvvy_spark/bvvy_spark.iml" filepath="$PROJECT_DIR$/bvvy_spark/bvvy_spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/bvvy_study.iml" filepath="$PROJECT_DIR$/bvvy_study.iml" />
-      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bvvy_thread/bvvy_thread.iml" filepath="$PROJECT_DIR$/bvvy_thread/bvvy_thread.iml" />
     </modules>
   </component>
 </project>
