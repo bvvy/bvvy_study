@@ -36,7 +36,7 @@ public class JMSConsumer {
             while (true) {
                 TextMessage textMessage = (TextMessage) messageConsumer.receive(100000);
                 if(textMessage != null){
-                    System.out.println("收到的消息:" + textMessage.getText());
+                    System.out.println("收到的:" + textMessage.getText());
                 }else {
                     break;
                 }
