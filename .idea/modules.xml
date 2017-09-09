@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bvvy-activemq/bvvy-activemq.iml" filepath="$PROJECT_DIR$/bvvy-activemq/bvvy-activemq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bvvy-spring/bvvy-spring.iml" filepath="$PROJECT_DIR$/bvvy-spring/bvvy-spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/bvvy_activiti/bvvy_activiti.iml" filepath="$PROJECT_DIR$/bvvy_activiti/bvvy_activiti.iml" />
       <module fileurl="file://$PROJECT_DIR$/bvvy_spark/bvvy_spark.iml" filepath="$PROJECT_DIR$/bvvy_spark/bvvy_spark.iml" />
       <module fileurl="file://$PROJECT_DIR$/bvvy_study.iml" filepath="$PROJECT_DIR$/bvvy_study.iml" />

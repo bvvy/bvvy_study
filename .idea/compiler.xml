@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bvvy-activemq" />
+        <module name="bvvy-spring" />
         <module name="bvvy_activiti" />
         <module name="bvvy_spark" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bvvy-activemq" target="1.5" />
+      <module name="bvvy-spring" target="1.5" />
       <module name="bvvy_activiti" target="1.5" />
       <module name="bvvy_spark" target="1.5" />
       <module name="bvvy_study" target="1.5" />

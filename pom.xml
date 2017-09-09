@@ -12,6 +12,7 @@
         <module>bvvy_activiti</module>
         <module>bvvy_spark</module>
         <module>bvvy-activemq</module>
+        <module>bvvy-spring</module>
     </modules>
 
 
